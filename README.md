@@ -43,7 +43,7 @@ Contato
       </sub>  
     </td>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="c-sharp-c icon"/><br>  
       <sub>  
         <b>  
           <pre>C#</pre>  

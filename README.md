@@ -196,7 +196,10 @@ Contato
 
 <h3>Statistics</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CristianoMenayame&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroPedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---

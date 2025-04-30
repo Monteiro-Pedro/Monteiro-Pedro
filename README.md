@@ -42,11 +42,11 @@ Contato
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-<a href="[https://www.threads.net/@SEU_USUARIO](https://www.threads.net/@louisvuitton.python)" target="_blank">
+<a href="[https://www.threads.net/louisvuitton.python](https://www.threads.net/@louisvuitton.python)" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
 </a>
 
-<a href="[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/monteiro-pedro-1a620531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="[https://www.linkedin.com/in/Monteiro-Pedro](https://www.linkedin.com/in/monteiro-pedro-1a620531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -102,10 +102,7 @@ Contato
         </b>  
       </sub>  
     </td>  
-  </tr>  
-  <tr>  
-  <tr>  
-    <td align="center">  
+<td align="center">  
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>  
       <sub>  
         <b>  
@@ -120,7 +117,10 @@ Contato
       <pre>PHP</pre>  
     </b>  
   </sub>  
-</td>  
+</td>
+  </tr>  
+  <tr>  
+  <tr>   
    <td align="center">  
   <img src="https://skillicons.dev/icons?i=html" width="65px" alt="html icon"/><br>  
   <sub>  
@@ -136,10 +136,8 @@ Contato
       <pre>&emsp;CSS&emsp;</pre>  
     </b>  
   </sub>  
-</td>  
-   <tr>  
-   <tr>  
-    <td align="center">  
+</td> 
+   <td align="center">  
   <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>  
   <sub>  
     <b>  
@@ -154,7 +152,9 @@ Contato
           <pre>C-Sharp (C#)</pre>
         </b>  
       </sub>  
-</td>  
+</td>
+   <tr>  
+   <tr>   
    <td align="center">  
   <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="asp.net icon"/><br>  
   <sub>  
@@ -171,9 +171,7 @@ Contato
     </b>  
   </sub>  
 </td>
-    <tr>  
-     <tr>
-<td align="center">  
+    <td align="center">  
   <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
   <sub>  
     <b>  
@@ -189,7 +187,7 @@ Contato
     </b>  
   </sub>  
 </td>
-<tr>
+    <tr>  
 
 </table>  
 <br><br>

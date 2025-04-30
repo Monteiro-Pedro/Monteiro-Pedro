@@ -35,11 +35,27 @@ Contato
 </a>
 
 <a href="https://x.com/lvpython12?t=_cn85WkqDFeyybEN7PcwJw&s=09" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
 </a>
 
 <a href="https://t.me/Monteiro-Pedro" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="[https://www.threads.net/@SEU_USUARIO](https://www.threads.net/@louisvuitton.python)" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+</a>
+
+<a href="[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/monteiro-pedro-1a620531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/louisvuitton.python?igsh=bnBxY2E4eHM0bDl2" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://wa.me/940581470" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 ---

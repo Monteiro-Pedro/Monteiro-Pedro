@@ -164,18 +164,10 @@ Contato
   </sub>  
 </td>  
    <td align="center">  
-  <img src="https://skillicons.dev/icons?i=sqlserver" width="65px" alt="sqlserver icon"/><br>  
+  <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" width="65px" alt="SQL Server icon"/><br>  
   <sub>  
     <b>  
-      <pre>SQLServer</pre>  
-    </b>  
-  </sub>  
-</td>
-    <td align="center">  
-  <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
-  <sub>  
-    <b>  
-      <pre>MySQL</pre>  
+      <pre>SQL Server</pre>  
     </b>  
   </sub>  
 </td>

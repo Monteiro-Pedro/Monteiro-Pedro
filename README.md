@@ -110,7 +110,10 @@ Contato
         </b>  
       </sub>  
     </td>  
-    <td align="center">  
+  </tr>  
+  <tr>  
+  <tr>   
+   <td align="center">  
   <img src="https://skillicons.dev/icons?i=php" width="65px" alt="php icon"/><br>  
   <sub>  
     <b>  
@@ -118,9 +121,6 @@ Contato
     </b>  
   </sub>  
 </td>
-  </tr>  
-  <tr>  
-  <tr>   
    <td align="center">  
   <img src="https://skillicons.dev/icons?i=html" width="65px" alt="html icon"/><br>  
   <sub>  

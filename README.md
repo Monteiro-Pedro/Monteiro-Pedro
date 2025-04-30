@@ -7,7 +7,9 @@
  </h3>  Eu sou Monteiro Pedro,
 
 <p align="center">  
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Backend%20Developer%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Backend%20Completo;Sempre%20aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</a>  
     </p>  
 Apaixonado por inovação tecnológica e movido por uma curiosidade incansável. Domino uma ampla gama de tecnologias modernas, incluindo Python, Node.js, Java, JavaScript, TypeScript, PHP, Booststrap, bem como C-Sharp como ASP.Net. Também trabalho com C# e ASP.Net, uma estrutura poderosa para construir aplicativos de servidor escaláveis ​​e de fácil manutenção com TypeScript. Além disso, exploro programação de sistemas e soluções de back-end de alto desempenho, muitas vezes aproveitando estruturas como ASP.Net para construir serviços web rápidos e confiáveis.
 Com essas ferramentas, consigo criar soluções completas, escaláveis ​​e de alto desempenho para aplicações back-end. Minha expertise também inclui bancos de dados como SqlServer e MySQL, garantindo eficiência e robustez em qualquer projeto.
@@ -42,14 +44,13 @@ Contato
         </b>  
       </sub>  
     </td>  
-    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="c-sharp-c icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>C#</pre>  
-        </b>  
-      </sub>  
     </td>  
+    <td align="center">  
+      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="c-sharp icon"/><br>  
+      <sub>  
+        <b>C#</b>  
+      </sub>  
+</td>  
         <td align="center">  
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>  
       <sub>  

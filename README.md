@@ -58,6 +58,10 @@ Contato
   <img src="https://img.shields.io/badge/WhatsApp%20Business-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business">
 </a>
 
+<a href="https://github.com/Monteiro-Pedro" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 ---
 
 <h3>Tecnologia que eu mais uso.</h3>
@@ -160,7 +164,7 @@ Contato
   </sub>  
 </td>  
    <td align="center">  
-  <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="sqlserver icon"/><br>  
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="65px" alt="sqlserver icon"/><br>  
   <sub>  
     <b>  
       <pre>SQLServer</pre>  
@@ -176,6 +180,25 @@ Contato
   </sub>  
 </td>
     <tr>  
+     <tr>
+<td align="center">  
+  <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>MySQL</pre>  
+    </b>  
+  </sub>  
+</td>
+      <td align="center">  
+  <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>Git</pre>  
+    </b>  
+  </sub>  
+</td>
+<tr>
+
 </table>  
 <br><br>
 

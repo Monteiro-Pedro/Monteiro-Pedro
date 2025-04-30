@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Backend%20Completo;Sempre%20aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </a>  
     </p>  
-Apaixonado por inovação tecnológica e movido por uma curiosidade incansável. Domino uma ampla gama de tecnologias modernas, incluindo Python, Node.js, Java, JavaScript, TypeScript, PHP, Booststrap, bem como C-Sharp como ASP.Net. Também trabalho com C# e ASP.Net, uma estrutura poderosa para construir aplicativos de servidor escaláveis ​​e de fácil manutenção com TypeScript. Além disso, exploro programação de sistemas e soluções de back-end de alto desempenho, muitas vezes aproveitando estruturas como ASP.Net para construir serviços web rápidos e confiáveis.
+Apaixonado por inovação tecnológica e movido por uma curiosidade incansável. Domino uma ampla gama de tecnologias modernas, incluindo Python, Node.js, Java, JavaScript, TypeScript, PHP, HTML, CSS, Booststrap, bem como C-Sharp como ASP.Net. Também trabalho com C# e ASP.Net, uma estrutura poderosa para construir aplicativos de servidor escaláveis ​​e de fácil manutenção com TypeScript. Além disso, exploro programação de sistemas e soluções de back-end de alto desempenho, muitas vezes aproveitando estruturas como ASP.Net para construir serviços web rápidos e confiáveis.
 Com essas ferramentas, consigo criar soluções completas, escaláveis ​​e de alto desempenho para aplicações back-end. Minha expertise também inclui bancos de dados como SqlServer e MySQL, garantindo eficiência e robustez em qualquer projeto.
 
 Além disso, tenho experiência com Java, aproveitando seus serviços para construir aplicações escaláveis, seguras e resilientes. Também trabalho com SqlServer para conteinerizar aplicações, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes. Implemento pipelines de Integração Contínua e Implantação Contínua (CI/CD) para automatizar processos de teste e implantação, permitindo ciclos de desenvolvimento mais rápidos e lançamentos mais confiáveis.
@@ -74,12 +74,6 @@ Contato
       </sub>  
     </td>  
     </td>  
-    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="c-sharp icon"/><br>  
-      <sub>  
-        <b>C#</b>  
-      </sub>  
-</td>  
         <td align="center">  
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>  
       <sub>  
@@ -88,6 +82,14 @@ Contato
         </b>  
       </sub>  
     </td>  
+ <td align="center">  
+  <img src="https://skillicons.dev/icons?i=java" width="65px" alt="java icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>Java</pre>  
+    </b>  
+  </sub>  
+</td>
     <td align="center" width="100px;">  
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>  
       <sub>  
@@ -108,63 +110,71 @@ Contato
       </sub>  
     </td>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="express icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>Express</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=php" width="65px" alt="php icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>PHP</pre>  
+    </b>  
+  </sub>  
+</td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="jest icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>Jest</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=html" width="65px" alt="html icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>&emsp;HTML&emsp;</pre>  
+    </b>  
+  </sub>  
+</td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="prisma icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>&emsp;Prisma ORM&emsp;</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=css" width="65px" alt="css icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>&emsp;CSS&emsp;</pre>  
+    </b>  
+  </sub>  
+</td>  
    <tr>  
    <tr>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="aws icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>AWS Cloud</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>&emsp;Bootstrap&emsp;</pre>  
+    </b>  
+  </sub>  
+</td>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="docker icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="c-sharp icon"/><br>  
       <sub>  
-        <b>  
-          <pre>Docker</pre>  
+        <b>
+          <pre>C-Sharp (C#)</pre>
         </b>  
       </sub>  
-    </td>  
+</td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>PostgreSQL</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="asp.net icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>ASP.NET</pre>  
+    </b>  
+  </sub>  
+</td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>&emsp;MongoDB&emsp;</pre>  
-        </b>  
-      </sub>  
-    </td>  
+  <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="sqlserver icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>SQLServer</pre>  
+    </b>  
+  </sub>  
+</td>
+    <td align="center">  
+  <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
+  <sub>  
+    <b>  
+      <pre>MySQL</pre>  
+    </b>  
+  </sub>  
+</td>
     <tr>  
 </table>  
 <br><br>

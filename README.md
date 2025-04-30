@@ -55,7 +55,7 @@ Contato
 </a>
 
 <a href="https://wa.me/940581470" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp%20Business-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business">
 </a>
 
 ---

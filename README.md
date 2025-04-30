@@ -1,4 +1,4 @@
-se<div>  
+<div>  
  <align="center"><img src="https://github.com/Prdsilva80/Prdsilva80/blob/main/code.gif" height="28"/>  
  <h3 align="left"> 
      Bem-vindo ao meu GitHub!

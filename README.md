@@ -1,4 +1,4 @@
-<div>  
+se<div>  
  <align="center"><img src="https://github.com/Prdsilva80/Prdsilva80/blob/main/code.gif" height="28"/>  
  <h3 align="left"> 
      Bem-vindo ao meu GitHub!
@@ -200,5 +200,14 @@ Contato
 
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MonteiroPedro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MonteiroPedro&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MonteiroPedro&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Calm&nbsp;and&nbsp;Focused&fontColor=c9c9c9&fontAlign=5&fontSize=10&fontAlignY=90&color=0:ffffff,100:999999&height=120&section=footer"/>
